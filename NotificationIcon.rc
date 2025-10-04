@@ -1,0 +1,4 @@
+#include "Resource-user.h"
+
+IDI_NOTIFICATIONICON       ICON         "1.ico"
+IDI_ICON     			   ICON         "favicon.ico"
